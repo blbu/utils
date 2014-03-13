@@ -1,0 +1,6 @@
+Really, these programs are all pointless.
+Consider using sed for these tasks -- that is its job.
+Alternatively, considering using tr with the -d option to strip things.
+$ tr -d " " <file >no-spaces
+$ tr -d "\n" <file >no-newlines
+and so on...
