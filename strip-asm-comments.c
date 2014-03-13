@@ -1,6 +1,6 @@
 /*
  Author: Blake Burgess
- License: WTFPL (see http://wtfpl.org)
+ License: WTFPL (see http://wtfpl.net)
  Date: 2014-03-14
 */
 
