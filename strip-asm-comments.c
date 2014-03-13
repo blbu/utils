@@ -17,7 +17,7 @@
 #include <stdio.h>
 
 int main(void) {
-	char c;
+	int c;
 	int in_comment = 0;
 
 	while ((c = getchar()) != EOF) {
