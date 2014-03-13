@@ -11,7 +11,6 @@
 
 /*
  Usage: $ ./strip-asm-comments <your-file.asm >stripped-file.asm
- (you should go find out what "pipes" are)
 */
 
 #include <stdlib.h>
